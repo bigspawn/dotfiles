@@ -1,0 +1,33 @@
+{
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "PragmataPro Mono Liga",
+    "editor.fontSize": 14,
+    "editor.renderWhitespace": "all",
+    "editor.tokenColorCustomizations": {
+        "comments": "#009900"
+    },
+    "editor.minimap.enabled": false,
+    
+    "workbench.colorTheme": "GitHub Light",
+    "window.zoomLevel": 0,
+    
+    "terminal.integrated.fontFamily": "PragmataPro Mono Liga",
+    "terminal.integrated.fontSize": 14,
+    
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "go.languageServerExperimentalFeatures": {
+        "format": true,
+        "diagnostics": true,
+        "documentLink": true
+    },
+    "go.lintTool": "golangci-lint",
+    "go.lintFlags": [
+        "--fast"
+    ],
+    
+    "yaml.format.enable": true,
+    
+    "markdown.preview.fontSize": 14,
+    "markdown.preview.fontFamily": "PragmataPro Mono Liga"
+}
