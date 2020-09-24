@@ -1,2 +1,6 @@
 # dotfiles
-My dotfiles for zsh 
+
+## for 
+
+- Alacritty
+- VS Code
