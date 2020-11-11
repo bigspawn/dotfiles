@@ -1,0 +1,23 @@
+{
+	"color_scheme": "Packages/GitHub Theme/schemes/GitHub Dark.sublime-color-scheme",
+	"draw_white_space": "all",
+	"env":
+	{
+		"GOPATH": "$HOME/go",
+		"GOROOT": "/usr/local/bin/go"
+	},
+	"font_face": "PragmataPro Mono Liga",
+	"font_options":
+	[
+		"no_antialias",
+		"dlig"
+	],
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"root": "/usr/local/bin/go",
+	"save_on_focus_lost": true,
+	"theme": "GitHub-Theme.sublime-theme"
+}
